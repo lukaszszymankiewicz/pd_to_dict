@@ -1,0 +1,5 @@
+setup.cfg
+pyproject.toml
+venv/
+__pycache__/
+*.py[cod]
